@@ -1,0 +1,5 @@
+# Learn and understand about basic Linex commands
+# prepared its presntation
+# practically perform them
+# makes first ec2 server on aws
+# 
