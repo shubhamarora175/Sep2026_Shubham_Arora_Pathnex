@@ -1,0 +1,5 @@
+# Learn and understand about kubernetes cluster architecture 
+# Create and runs a EKS cluster nodes using AWS UI
+# prepared its presntation
+# practically perform them by using IAM user logged in to local computer 
+#performs basic commands on worker nodes and initialized pods , namespace , deomen sets
