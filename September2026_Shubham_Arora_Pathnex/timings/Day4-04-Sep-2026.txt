@@ -1,0 +1,3 @@
+# learm how to deploy pods and create namespaces
+# created a project using codex, [cluster creation through terraform and cluster scaling]
+#watched kubernetes interview questions video
