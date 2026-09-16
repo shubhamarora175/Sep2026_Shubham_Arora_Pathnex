@@ -1,0 +1,3 @@
+# practice k8s commands on killercoda such as cluster info, working with context namespace deplyments deomensets lables
+# OSI model, basic networking topics like subnetting network range splitting understanding
+#started working on 3-tier architecture on aws ui including 15 aws services from on aws github
