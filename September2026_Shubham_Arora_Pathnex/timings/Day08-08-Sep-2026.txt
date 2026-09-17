@@ -1,0 +1,4 @@
+#Today i understood about k8s packaged manager helm, bitnami repo, 
+#helm charts bundle of yaml files, how to add install yaml files to superseded 
+#kubectl apply -f to all template files,  values.yaml, chart.yaml, .helper.tpl
+
