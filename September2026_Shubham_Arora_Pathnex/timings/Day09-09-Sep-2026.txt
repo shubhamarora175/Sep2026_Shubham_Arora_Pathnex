@@ -1,0 +1,3 @@
+understand gitops need, its tools like argo-cd. 
+argo -cd architecture, api-server.
+perform it practically
