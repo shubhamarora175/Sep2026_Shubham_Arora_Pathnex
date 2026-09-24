@@ -1,0 +1,2 @@
+#today i learn about deploying index.html on multiple servers using ansible
+#perform it practically
