@@ -1,0 +1,2 @@
+#today i learn about private registery with docker and jenkins
+#perform it practically
