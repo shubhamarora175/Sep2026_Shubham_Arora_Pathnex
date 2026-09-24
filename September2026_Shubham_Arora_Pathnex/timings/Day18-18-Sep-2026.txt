@@ -1,0 +1,2 @@
+#today i learn about terraform multiple ec2 using count and loops
+#perform it practically
