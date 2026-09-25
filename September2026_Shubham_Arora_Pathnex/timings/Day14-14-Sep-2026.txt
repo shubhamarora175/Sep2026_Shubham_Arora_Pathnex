@@ -1,0 +1,2 @@
+#today i learn about ci/cd principle
+#perform it practically
