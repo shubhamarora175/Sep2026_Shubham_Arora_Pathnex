@@ -1,2 +1,0 @@
-#today i learn about creating docker image through jenkins pipeline
-#perform it practically
