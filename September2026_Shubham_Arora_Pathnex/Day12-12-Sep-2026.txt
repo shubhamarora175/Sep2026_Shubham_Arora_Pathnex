@@ -1,3 +1,0 @@
-#understang cluster version upgrade.
-#Terraform need, iac tools, terragorm commands, state file.
-#terragorm interview questions will be done.
